@@ -7,13 +7,13 @@ Currently their data resides in several different systems: accounting software, 
 
 **Tasks:
 
-Task 1: Identify entities
-Task 2: Identify attributes
-Task 3: Create an ERD using the pgAdmin ERD Tool
-Task 4: Normalize tables
-Task 5: Define keys and relationships
-Task 6: Create database objects by generating and running the SQL script from the ERD Tool
-Task 7: Create a view and export the data
-Task 8: Create a materialized view and export the data
-Task 9: Import data into a Db2 database
-Task 10: Import data into a MySQL database
+Task 1: Identify entities  
+Task 2: Identify attributes  
+Task 3: Create an ERD using the pgAdmin ERD Tool  
+Task 4: Normalize tables  
+Task 5: Define keys and relationships  
+Task 6: Create database objects by generating and running the SQL script from the ERD Tool  
+Task 7: Create a view and export the data  
+Task 8: Create a materialized view and export the data  
+Task 9: Import data into a Db2 database  
+Task 10: Import data into a MySQL database  
